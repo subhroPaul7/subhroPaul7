@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
   </a>
   <img src="https://img.shields.io/badge/📍-Kolkata,%20India%20🇮🇳-orange?style=for-the-badge" alt="Location Badge"/>
-  <img src="https://img.shields.io/badge/📱-%2B91%209748495049%20-f08080?style=for-the-badge" alt="Mobile Badge"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=SubhScripter&style=flat-square&color=blue" alt=""/>
 </div>
