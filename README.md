@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Subhraneel!
-### I'm a final year B.Tech student at IIEST, Shibpur. While my roots lie in Mechanical Engineering, I have always been drawn to the fascinating world of Machine Learning and Artificial Intelligence.
+### Final year BTech student at IIEST, Shibpur | Passionate about Machine Learning, Deep Learning, and Gen AI
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -50,5 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
 
