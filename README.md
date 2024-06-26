@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Subhraneel!
-### Final year B.Tech student at IIEST, Shibpur | Passionate about Machine Learning, Deep Learning, & Gen AI
+### B.Tech graduate from IIEST, Shibpur | Passionate about Gen AI, Machine Learning & Deep Learning
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
