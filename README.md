@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Subhraneel!
-### B.Tech graduate from IIEST, Shibpur | Passionate about Gen AI, Machine Learning & Deep Learning
+### ML/AI Developer at TCS | B.Tech graduate from IIEST, Shibpur | Passionate about Gen AI, ML & DL
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,7 +26,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I delve in AutoML techniques and read tech articles.
+- :zap: In my free time, I delve in making AI agents and read tech articles.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
